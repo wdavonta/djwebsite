@@ -1,4 +1,4 @@
-import React from 'react';
+
 import "./style.css";
 import {
   Nav,
@@ -6,8 +6,8 @@ import {
   NavLink,
   Bars,
   NavMenu,
-  NavBtn,
-  NavBtnLink,
+//   NavBtn,
+//   NavBtnLink,
 } from "./NavbarElements";
 
 // function Nav(props) {
