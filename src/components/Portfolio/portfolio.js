@@ -1,15 +1,13 @@
-import React from 'react';
+import React from 'react'
 
 function Portfolio() {
     return (
         <div>
-            <p>
-                test
-            </p>
-
+            <h1>Portfolio</h1>
         </div>
-
     )
 }
+
+
 
 export default Portfolio;
